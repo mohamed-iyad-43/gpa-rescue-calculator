@@ -5,9 +5,9 @@ A simple Python script designed to compute the overall GPA and Calculate the min
 ---
 
 ## Features
-- **Calculates your overall GPA as well as the passing average.
-- **Operates strictly within the specified range from 0 to 20.
-- **Simple and user-friendly command-line prompts.
+- **Calculates your overall GPA as well as the passing average.**
+- **Operates strictly within the specified range from 0 to 20.**
+- **Simple and user-friendly command-line prompts.**
 
 ## Getting Started
 ### Prerequisites 
